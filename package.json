@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/lucasfjportela/react-native-actioncable#readme",
   "dependencies": {
-    "actioncable": "^6.0.0-rc1"
+    "actioncable": "6.0.0-rc1"
   }
 }
