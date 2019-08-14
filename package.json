@@ -18,9 +18,9 @@
   "author": "Li Jie <cpunion@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cpunion/react-native-actioncable/issues"
+    "url": "https://github.com/lucasfjportela/react-native-actioncable/issues"
   },
-  "homepage": "https://github.com/cpunion/react-native-actioncable#readme",
+  "homepage": "https://github.com/lucasfjportela/react-native-actioncable#readme",
   "dependencies": {
     "actioncable": "^6.0.0-rc2"
   }
