@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cpunion/react-native-actioncable.git"
+    "url": "git+https://github.com/lucasfjportela/react-native-actioncable.git"
   },
   "keywords": [
     "ActionCable",
@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/cpunion/react-native-actioncable#readme",
   "dependencies": {
-    "actioncable": "^5.2.3"
+    "actioncable": "^6.0.0-rc2"
   }
 }
