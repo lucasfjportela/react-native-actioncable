@@ -23,6 +23,6 @@
   "homepage": "https://github.com/lucasfjportela/react-native-actioncable#readme",
   "dependencies": {
                    "github:joltup/rn-fetch-blob#master"
-    "actioncable": "github:rails/@rails/actioncable#6-0-stable"
+    "actioncable": "github:rails/rails/actioncable#6-0-stable"
   }
 }
