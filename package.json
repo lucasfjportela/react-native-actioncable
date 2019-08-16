@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/lucasfjportela/react-native-actioncable#readme",
   "dependencies": {
-    "custom-actioncable": "1.0.0"
+    "rn-action-cable": "5.2.4"
   }
 }
