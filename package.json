@@ -1,6 +1,6 @@
 {
   "name": "react-native-actioncable",
-  "version": "0.0.4",
+  "version": "0.0.3",
   "description": "ActionCable for react native",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lucasfjportela/react-native-actioncable.git"
+    "url": "lucasfjportela/react-native-actioncable"
   },
   "keywords": [
     "ActionCable",
@@ -18,7 +18,7 @@
   "author": "Li Jie <cpunion@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lucasfjportela/react-native-actioncable/issues"
+    "url": "https://github.com/cpunion/react-native-actioncable/issues"
   },
   "homepage": "https://github.com/lucasfjportela/react-native-actioncable#readme",
   "dependencies": {
