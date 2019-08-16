@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/lucasfjportela/react-native-actioncable#readme",
   "dependencies": {
-    "actioncable": "github:lucasfjportela/rails#dev"
+    "actioncable": "git+https://git@github.com/lucasfjportela/rails#dev"
   }
 }
