@@ -6,6 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "lucasfjportela/react-native-actioncable"
+  },
+  "keywords": [
+    "ActionCable",
+    "react",
+    "native"
+  ],
   "author": "Li Jie <cpunion@gmail.com>",
   "license": "MIT",
   "bugs": {
