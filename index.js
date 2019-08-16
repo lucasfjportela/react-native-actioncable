@@ -1,6 +1,6 @@
 import React, { Component, PropTypes } from 'react'
 import { Platform } from 'react-native';
-import ActionCable from 'rn-action-cable'
+import ActionCable from 'rn-actioncable'
 
 ActionCable.getConfig = () => null
 ActionCable.createWebSocketURL = (url) => url.replace(/^http/, 'ws')
